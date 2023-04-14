@@ -1,0 +1,11 @@
+/build/
+/utils/build/
+/stockmetrics/build/
+/openapi/build/
+/tests/
+/metrics.xml
+/build.properties
+/MetricsReloaded.iws
+/.shelf/
+/.metrics/*
+/MetricsReloaded/*
